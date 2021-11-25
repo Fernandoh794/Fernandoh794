@@ -1,6 +1,6 @@
 
 ## Olá Mundo \o/ 
-Me chamo Fernando Henrique e Sou Estudante de Sistemas de Informação e amo a parte de FrontEnd xD;
+Me chamo Fernando Henrique, sou Estudante de Sistemas de Informação e amo a parte de FrontEnd xD;
 
 
 <div align="center">
